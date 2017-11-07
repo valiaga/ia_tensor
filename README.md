@@ -24,7 +24,7 @@ El autor original es <a href="https://github.com/Hvass-Labs/TensorFlow-Tutorials
 
 ## Presentación
 
-<a href="https://docs.google.com/presentation/d/1ookIBaOipnbGEMNfd-o8QujSckm8ft_LXTd3fe0jtnc/edit#slide=id.g294da75f7e_0_0">https://docs.google.com/presentation/d/1ookIBaOipnbGEMNfd-o8QujSckm8ft_LXTd3fe0jtnc/edit#slide=id.g294da75f7e_0_0</a>
+<a href="https://docs.google.com/presentation/d/1ookIBaOipnbGEMNfd-o8QujSckm8ft_LXTd3fe0jtnc/edit#slide=id.p">Google Docs</a>
 
 ## Video
 
