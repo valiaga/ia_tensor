@@ -30,4 +30,4 @@ El autor original es <a href="https://github.com/Hvass-Labs/TensorFlow-Tutorials
 
 ## Video
 
-<a href="#">Youtube</a>
+<a href="https://youtu.be/pCopSajYd_s">Youtube</a>
