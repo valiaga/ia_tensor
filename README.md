@@ -6,7 +6,7 @@ asi mismo cumplir con el requisito de curso de *Inteligencia Artificial* de la *
 El autor original es <a href="https://github.com/Hvass-Labs/TensorFlow-Tutorials">Hvass-Labs</a>
 ## Requirements
 * Anaconda SUIT
-* Jypiter.
+* Jypiter Notebook.
 * Python 3.5
 * TensorFlow `pip install tensorflow`
 * Panda install `pip install panda`
