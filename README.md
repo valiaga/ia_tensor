@@ -10,6 +10,8 @@ El autor original es <a href="https://github.com/Hvass-Labs/TensorFlow-Tutorials
 * Python 3.5
 * TensorFlow `pip install tensorflow`
 * Panda install `pip install panda`
+### Install enviroments
+<a href="https://docs.google.com/presentation/d/1eZQBGZ37p_8_3FH6-Z1rLYZ7eid8VWcoC-ENNcDpkxk/edit#slide=id.p3">Instalar Anaconda Tutorial</a>
 
 ## Git
 * `git clone https://github.com/valiaga/ia_tensor.git`
